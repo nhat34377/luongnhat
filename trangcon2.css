@@ -1,0 +1,136 @@
+input{
+    width: 45%;
+    height: 31px;
+    border: 1px solid gray;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    margin-top: 55px;
+    margin-left: 15px;
+    margin-bottom: 15px;    
+}
+    button{
+        width: 5%;
+        height: 34.5px;
+        text-align: center;
+        color: black;
+        background-color: white;
+        border-top-right-radius: 10px;
+        border-bottom-right-radius: 10px;
+        border: 1px solid gray;
+        margin-top: 55px;
+        margin-left: 0px ;
+        margin-right: 40px; 
+    
+    }
+    button:hover{
+        color: red;
+        background-color: aquamarine;
+    }
+    .left{
+        float: left;
+    }
+    .sanpham{
+        width: 235px;
+        height: 220px;
+
+    }
+    .ip14{
+        width: 300px;
+        height: 300px;
+        
+    
+    }
+    .column{
+        width:25%;
+        float:left;
+    }
+    .san-pham{
+        box-shadow: 0px 1px gray;
+        padding: 10px;
+        margin: 5px;
+        text-align: center;
+        
+    
+    }
+    .san-pham .ten{
+        
+        font-size: large;
+        font-variant: small-caps;
+        color: blue;
+    }
+    .san-pham img{
+        max-width: 100%;
+    }
+    .san-pham .gia{
+        color: red;
+        font-weight: bold;
+        font-size: large;
+    }
+    .san-pham .gia del{
+    color: gray;
+    }
+    .ten:hover{
+        color: red;
+    }
+    .ten{
+        margin-top: -20px;
+    }
+    .box1{
+        margin-top: 10px;
+        width: 1255px;
+        height: 180px;
+        background-color: white;
+        border: 1px solid white;
+    }
+    .box2{
+        margin-top: 60px;
+        width: 1455px;
+        height: 380px;
+        background-color: white;
+        border: 1px solid black; 
+    }
+    .zoom{
+        height: 300px;
+        overflow: hidden;
+    
+    }
+    .zoom>img{
+        object-fit: cover;
+        transition: 0.8s ;
+        height: 100%;
+    }
+    .zoom:hover> img{
+        -ms-transform: scale(1.5);
+        -webkit-transform: scale(1.5);
+        transform: scale(1.5);
+
+    }
+    .right{
+        float: right;
+    }
+    .boxtt{
+        width: 629px;
+        height: 48px;
+        background-color: white;
+        float: right;
+        margin-top: -350px;
+        margin-left: 205px;
+    }
+    .addgiohang{
+        width: 217.46px;
+        height: 48px;
+        background: rgba(255, 0, 0, 0.1);
+        color: #d0011b;
+        font-size: medium;
+        float: left;
+        border: 1px solid #d0011b;
+    }
+    .mua{
+        width: 112.93px;
+        height: 48px;
+        background-color: #d0011b;
+        border: 1px solid #d0011b;
+        float: left;
+        margin-left: 15px;
+        color: white;
+    }
