@@ -33,7 +33,7 @@
     <div class="column">
         <div class="san-pham">
         <div class="zoom"><img src="IP14.1.png  " alt=""></div>
-        <div class="ten"><a href="/trang con/TrangCon1.html">iPhone 14 128GB</a></div>
+        <div class="ten">iPhone 14 128GB</a></div>
         <div class="gia">
         <del>$21.999.0000</del> $20.999.000
         </div>
@@ -112,7 +112,7 @@
     <br><br><br>
     <div class="box1">
         <p class="left" align="right" style="margin-top: 150px;" >Loa Bluetooth <br> Harman Kardon Onyx <br> Studio 8 <br>6.990.000đ</p>
-        <a href="/trangcon2/trangcon2.html"><img src="amthanh2.png" alt="" class="left"></a>
+        <img src="amthanh2.png" alt="" class="left">
         <p class="left" align="left" style="margin-top: 150px;">Loa Bluetooth <br> Harman Kardon Onyx <br> Studio 5 <br>3.990.000đ</p>
     </div>
     <div>
