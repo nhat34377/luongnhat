@@ -1,4 +1,3 @@
-# luongnhat
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -33,7 +32,7 @@
     <div class="column">
         <div class="san-pham">
         <div class="zoom"><img src="IP14.1.png  " alt=""></div>
-        <div class="ten">iPhone 14 128GB</a></div>
+        <div class="ten"><a href="/trang con/TrangCon1.html">iPhone 14 128GB</a></div>
         <div class="gia">
         <del>$21.999.0000</del> $20.999.000
         </div>
